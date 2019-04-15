@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	font: calibri;
+	color: rgba(0,0,0,0.5);
+	text-transform: uppercase;
+	top: 15%;
+	background: linear-gradient(to right, #17cac1, #f158d7);
+	letter-spacing: 0.5em;
+	font-size: 2em;
+
+}
+
+
+.color
+{
+	border: 3px solid red;
+}
+
+h2{
+	font-size: 1em;
+	letter-spacing: 0.25em;
+}
+
+h3{
+	font-size: 0.6em;
+	letter-spacing: 0;
+	text-transform: lowercase;
+}
